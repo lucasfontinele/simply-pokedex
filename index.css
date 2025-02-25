@@ -18,7 +18,7 @@ body {
   column-gap: 16px;
 }
 
-form {
+.content {
   display: flex;
   flex-direction: column;
   row-gap: 16px;
